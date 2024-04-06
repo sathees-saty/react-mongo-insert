@@ -1,7 +1,7 @@
 # react-mongo-insert
 <html>
 <br>
-Connect MongoDB with ReactJS
+**Connect MongoDB with ReactJS**
 <br>
 Step 1: Install MongoDB , mongosh and NodeJS and ensure it’s installed properly
 <br>
@@ -28,6 +28,8 @@ After updating source code in frontend and backend. Start frontend and backend s
 D:\react-development\react-mongo1\frontend>npm start
 <br>
 D:\react-development\react-mongo1\backend>nodemon index.js 
+<br>
+**  Screenshots**
 <br>
 ! ![react-mongo-input-form](https://github.com/sathees-saty/react-mongo-insert/assets/65384711/5d2f425b-e4d7-434b-9d79-dffb431749fd)
 <br>
