@@ -25,7 +25,7 @@ create dummy index.js in root folder
 <br>
 After updating source code in frontend and backend. Start frontend and backend server as below:
 <br>
-in backend index.js, bewlo two lines are important to connect to mongo db
+in backend index.js, below two lines are important to connect to mongo db
 <br>
   To connect to database schema
 <br>
