@@ -25,6 +25,16 @@ create dummy index.js in root folder
 <br>
 After updating source code in frontend and backend. Start frontend and backend server as below:
 <br>
+in backend index.js, bewlo two lines are important to connect to mongo db
+<br>
+  To connect to database schema
+<br>
+  mongoose.connect('mongodb://localhost:27017/register', { useNewUrlParser: true, useUnifiedTopology: true });
+<br>
+  to connect to collections
+<br>
+const User = mongoose.model('users', UserSchema);  
+<br>
 D:\react-development\react-mongo1\frontend>npm start
 <br>
 D:\react-development\react-mongo1\backend>nodemon index.js 
