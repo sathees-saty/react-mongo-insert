@@ -27,3 +27,5 @@ D:\react-development\react-mongo1\frontend>npm start
 <br>
 D:\react-development\react-mongo1\backend>nodemon index.js 
 <html>
+! ![react-mongo-input-form](https://github.com/sathees-saty/react-mongo-insert/assets/65384711/5d2f425b-e4d7-434b-9d79-dffb431749fd)
+
